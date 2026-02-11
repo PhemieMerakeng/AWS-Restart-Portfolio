@@ -32,7 +32,7 @@ This project showcases a hybrid cloud solution built using AWS services for a sm
 * Hosting, storage, databases, and backups are moved to AWS
 * This approach reduces risk while supporting a smoother and more flexible transition to the cloud.
 
-##### [View the solution explained in detail](Cloud-Migration-Strategy-for-FreshlyGround-Cafe.pdf)
+#### [View the solution explained in detail](Cloud-Migration-Strategy-for-FreshlyGround-Cafe.pdf)
 ---
 
 ## AWS Services Used in Proposed Solution
