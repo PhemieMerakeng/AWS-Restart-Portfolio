@@ -20,35 +20,58 @@
 
 ---
 
-#### Accessing AWS and Launching an S3 Bucket
+### Accessing AWS and Launching an S3 Bucket
 
 I accessed the AWS Management Console and used the search bar to locate S3, selecting it to enter the storage dashboard. I clicked on Create bucket and created a globally unique name that identified the café project
 
----
+![IMG-20260205-WA0062](https://github.com/user-attachments/assets/12354de0-8159-4056-a4c6-ec573613c218)
 
-#### Configure Bucket Settings
+--
+
+![IMG-20260205-WA0061](https://github.com/user-attachments/assets/72bb78e8-624d-473e-a3bf-87063adc9708)
+
+### Configure Bucket Settings
 
 Once the bucket was created, I navigated to the Permissions tab to adjust access controls. I located the "Block all public access" section, clicked edit, and unchecked the box to allow the bucket to eventually serve content to the internet. Next, I moved to the Properties tab, scrolled to the bottom to find Static website hosting, and selected Enable.
 
+![IMG-20260205-WA0058](https://github.com/user-attachments/assets/265a62f9-38bf-413b-831c-89556773a71b)
+
+
 ---
 
-#### Upload Website Files
+### Upload Website Files
 
 I opened the newly created bucket and clicked on Upload. I dragged and dropped the café’s localized website files—specifically the HTML, CSS, and image assets—directly into the console.
 
+![IMG-20260205-WA0060](https://github.com/user-attachments/assets/d19c2f9d-6d4b-4c6e-9656-c717c9804f8e)
+
+
 ---
 
-#### Update Bucket Policy for Public Access
+### Update Bucket Policy for Public Access
 
 To ensure the files were actually readable by the public, I returned to the Permissions tab and scrolled to the Bucket policy section. I clicked edit and entered a JSON policy script that granted permission to all users. This step is vital because even if a bucket is public, individual files remain inaccessible until this explicit policy is applied.
 
+![IMG-20260205-WA0059](https://github.com/user-attachments/assets/e9701bb3-09d0-4ee4-a4da-0195acbfc508)
+
+
 ---
 
-#### Verify Website Endpoint
+### Verify Website Endpoint
+
 With the permissions set, I located the auto-generated Bucket Website Endpoint URL. By clicking this link, I was able to verify that the After Hours Café website loaded correctly in a new browser tab, confirming that the cloud-to-user connection was successful
 
+[Bucket currently down to avoid AWS Costs](http://after-hours-cafe.s3-website.eu-north-1.amazonaws.com/)
+
 ---
 
-#### Test and Update Content
+### Test and Update Content
 
 I conducted a final walkthrough of the live site to verify that navigation and styling rendered correctly across different browsers. This serverless setup provides high operational agility, to update the café's content, I simply re-uploaded the modified files to the bucket, confirming that the changes reflected immediately
+
+<img width="1470" height="956" alt="Screenshot 2026-02-06 at 08 08 25" src="https://github.com/user-attachments/assets/4f946a74-c297-41ea-a725-22a29211b95b" />
+
+--
+
+<img width="1470" height="956" alt="Screenshot 2026-02-06 at 08 08 30" src="https://github.com/user-attachments/assets/27e04fd0-5a1f-4018-87fd-6728c48d5292" />
+
