@@ -7,13 +7,29 @@
 ### AWS SimuLearn: Databases in Practice
 
 ##### Objectives
-Compare database types and their use cases on AWS.
-Implement Multi-AZ deployments for Amazon RDS high availability.
-Configure Amazon RDS read replicas for performance optimization.
-Differentiate between managed and hosted database solutions.
-Evaluate database migration strategies by using AWS DMS.
+- Compare database types and their use cases on AWS.
+- Implement Multi-AZ deployments for Amazon RDS high availability.
+- Configure Amazon RDS read replicas for performance optimization.
+- Differentiate between managed and hosted database solutions.
+- Evaluate database migration strategies by using AWS DMS.
 
 ##### AWS Services
 Amazon Relational Database Service
 
 #### [Certificate of Completion](./AWS%20SimuLearn%20Databases%20In%20Practice.pdf)
+
+---
+
+### AWS SimuLearn: File Systems in the Cloud
+
+#### Objectives
+- Evaluate different storage options available on AWS.
+- Analyze the key features and benefits of Amazon EFS.
+- Apply Amazon EFS solutions to specific business scenarios.
+- Configure Amazon EFS endpoints for centralized storage access.
+
+#### AWS Services
+- Amazon Elastic Compute Cloud
+- Amazon Elastic File System
+
+  
