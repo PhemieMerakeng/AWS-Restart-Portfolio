@@ -41,3 +41,9 @@ This project showcases a hybrid cloud solution built using AWS services for a sm
 - Amazon RDS – Managed relational database service
 - AWS IAM – Manages user access and permissions
 - Amazon CloudWatch – Monitors
+
+---
+
+### Step By Step Guide
+
+#### [Follow this link for the guide on how i created and lauched the static website](Step_By_Step_Guide.md)
