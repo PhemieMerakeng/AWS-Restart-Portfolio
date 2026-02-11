@@ -1,6 +1,6 @@
 ## My AWS Certificates and Badges.
 
-###### I have actively built my cloud proficiency through AWS Simu Learn, a platform focused on practical, simulation-based learning. The certifications listed below represent hands-on experience in architecting and deploying solutions within live-simulated AWS environments, moving beyond theoretical knowledge to real-world application.
+I have actively built my cloud proficiency through AWS Simu Learn, a platform focused on practical, simulation-based learning. The certifications listed below represent hands-on experience in architecting and deploying solutions within live-simulated AWS environments, moving beyond theoretical knowledge to real-world application.
 
 ---
 
@@ -16,7 +16,7 @@
 ##### AWS Services
 Amazon Relational Database Service
 
-#### [Certificate of Completion](./AWS%20SimuLearn%20Databases%20In%20Practice.pdf)
+### [Certificate of Completion](./AWS%20SimuLearn%20Databases%20In%20Practice.pdf)
 
 ---
 
@@ -32,4 +32,4 @@ Amazon Relational Database Service
 - Amazon Elastic Compute Cloud
 - Amazon Elastic File System
 
-  
+### [Certificate of Completion](./AWS%20SimuLearn%20File%20Systems%20In%20The%20Cloud.pdf)
