@@ -16,4 +16,4 @@ Evaluate database migration strategies by using AWS DMS.
 ##### AWS Services
 Amazon Relational Database Service
 
-[Certificate of Completion](AWS SimuLearn Databases in Practice.pdf)
+#### [Certificate of Completion](./AWS%20SimuLearn%20Databases%20In%20Practice.pdf)
