@@ -48,6 +48,6 @@ Amazon Relational Database Service
 - Amazon Elastic Compute Cloud
 - Amazon VPC
 
-### [Certificate of Completion](./AWS%20SimuLearn%20Networking%20Concepts.pdf).
+### [Certificate of Completion](./AWS%20SimuLearn%20Networking%20Concepts.pdf)
 
 
