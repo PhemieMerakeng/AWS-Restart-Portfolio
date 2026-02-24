@@ -33,3 +33,21 @@ Amazon Relational Database Service
 - Amazon Elastic File System
 
 ### [Certificate of Completion](./AWS%20SimuLearn%20File%20Systems%20In%20The%20Cloud.pdf)
+
+---
+
+### AWS SimuLearn: Networking Concepts
+
+#### Objectives
+- Analyze key components of VPCs, subnets, internet gateways, and route tables.
+- Evaluate the advantages of VPC implementations.
+- Apply CIDR block notation and IP addressing concepts.
+- Configure VPC traffic routing by using gateways, NACLs, and security groups.
+
+ #### AWS Services
+- Amazon Elastic Compute Cloud
+- Amazon VPC
+
+### [Certificate of Completion](./AWS%20SimuLearn%20Networking%20Concepts.pdf).
+
+
