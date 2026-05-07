@@ -50,4 +50,24 @@ Amazon Relational Database Service
 
 ### [Certificate of Completion](./AWS%20SimuLearn%20Networking%20Concepts.pdf)
 
+---
+
+### Data Engineering on AWS - Foundations
+
+### Objectives
+- Describe the data engineering role and personas they work with.
+- Identify how to perform data discovery to help define requirements and review considerations.
+- Identify common data architectures and appropriate AWS services.
+- Recognize how to orchestrate and automate data pipelines using AWS services.
+- Identify AWS security and monitoring services.
+- Identify common CI/CD tools used by data engineers on AWS.
+- Identify IaC tools used by data engineers on AWS.
+- Describe AWS Serverless Application Model (AWS SAM).
+- Identify AWS cost optimization tools.
+- Identify different AWS security mechanisms.
+
+#### AWS Services
+- AWS Lambda
+- Amazon Simple Storage Service
+- AWS Identity and Access Management
 
