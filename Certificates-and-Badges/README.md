@@ -71,3 +71,46 @@ Amazon Relational Database Service
 - Amazon Simple Storage Service
 - AWS Identity and Access Management
 
+### [Certificate of Completion](./Data%20Engineering%20on%20AWS%20-%20Foundations.pdf)
+
+---
+
+### Planning a Generative AI Project
+
+### AWS Services
+- Amazon Q
+- Amazon Bedrock
+
+### [Certificate of Completion](./Planning%20a%20Generative%20AI%20Project.pdf)
+
+---
+
+### Foundations of Prompt Engineering
+
+### Services
+- Amazon Bedrock
+
+ ### [Certificate of Completion](./Prompt%20Engineering.pdf)
+
+ ---
+
+ ### Amazon Q Developer Getting Started
+
+ ### Objectives
+- Understand how Amazon Q Developer works
+- Familiarize yourself with basic concepts of Amazon Q Developer
+- Recognize the benefits of Amazon Q Developer
+- List typical use cases for Amazon Q Developer
+- Describe the typical architecture associated with an Amazon Q Developer solution
+- Understand the cost structure of Amazon Q Developer
+- Implement a demonstration of Amazon Q Developer using an IDE
+
+ ### AWS Services
+- Amazon Simple Storage Service
+- AWS Identity and Access Management
+- Amazon Elastic Compute Cloud
+- Amazon Elastic Kubernetes Service
+- Amazon Relational Database Service
+
+ ### [Certificate of Completion](./Amazon%20Q%20Developer.pdf)
+
